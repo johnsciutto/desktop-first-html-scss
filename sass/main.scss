@@ -1,0 +1,20 @@
+// Vendors
+
+@import 'abstracts/mixins';
+@import 'abstracts/variables';
+
+@import 'base/animations';
+@import 'base/reset';
+@import 'base/typography';
+@import 'base/utilities';
+
+// Components
+
+// @import 'layout/grid'; -> do I need this? Maybe, just organizing the css grid
+@import 'layout/header';
+@import 'layout/footer';
+@import 'layout/navigation';
+
+@import 'pages/home';
+
+// Themes

@@ -1,0 +1,34 @@
+// COLORS
+$color-black: #333;
+$color-white: #eee;
+
+$color-font-primary: $color-black;
+// $color-font-secondary: ;
+
+$color-primary: #4169e1;
+$color-primary-light: lighten($color-primary, 15%);
+$color-primary-dark: darken($color-primary, 15%);
+
+$color-secondary: #e14169;
+$color-secondary-light: lighten($color-secondary, 15%);
+$color-secondary-dark: darken($color-secondary, 15%);
+
+$color-tertiary: #69e141;
+$color-tertiary-light: lighten($color-tertiary, 15%);
+$color-tertiary-dark: darken($color-tertiary, 15%);
+
+// FONTS
+$font-primary: sans-serif;
+$font-secondary: serif;
+
+// SPACING (margin and paddings)
+
+// BORDERS
+
+// SHADOWS (Material Design)
+$shadow-xsm: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+$shadow-sm: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+$shadow-m: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+$shadow-l: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+$shadow-xl: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+$shadow-xxl: 0 19px 38px rgba(0, 0, 0, 0.3), 0 15px 12px rgba(0, 0, 0, 0.22);
